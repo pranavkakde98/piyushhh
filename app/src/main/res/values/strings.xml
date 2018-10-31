@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="todo">TODO</string>
+    <string name="under_plumber">No need to buy any equipments</string>
+    <string name="pricing">Lose weight or gain weight easily</string>
+    <string name="under_pricing">Do workouts customized for yourbody type</string>
+    <string name="protection">Get Training for two at \nthe price of one!</string>
+    <string name="under_protection">No extra charges for couple or \ngroup training</string>
+    <string name="radio1text1">Book Monthly Package \nat Rs. 4,499/month</string>
+    <string name="radio1text2">Pay if you take service,as per rate \ncard shared next</string>
+    <string name="radio2text1">Recommended for installation of \nmajor hardware fittings like Western\nToilet,Wash Basin etc</string>
+    <string name="radio2head">Get 12 sessions in 4 weeks</string>
+    <string name="pricing2">Pricing &amp; Terms</string>
+    <string name="workouts">Do workouts customized for your \nbody type</string>
+
+    <string name="hourly_pricing">Hourly Pricing</string>
+    <string name="inspect">Inspection is Free</string>
+
+
+    <string name="additional_cost1">Additional cost</string>
+    <string name="additional_cost2">Rs 100 convenience fee for material \nprocurement</string>
+    <string name="additional_cost3">Rs 100 for every 60 minutes for helper \n(if required for complex work)</string>
+
+    <string name="cost">Prices for Drain and Pipe Blockage work will be \nprovided after inspection</string>
+    <string name="where">Where do you need the \nservice?</string>
+
+</resources>
